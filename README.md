@@ -106,7 +106,7 @@ An interactive Power BI dashboard was created to visualize:
 * Created a complete reporting system from scratch
   
 # 📸 Dashboard Preview
-
+https://github.com/Dharmender7374/End-to-End-E-Commerce-Data-Analytics-System/blob/d2b394ed7718b9763ca497ef8fd9c54c61129371/Order%20and%20Revenue%20SS.png
 
 
 
